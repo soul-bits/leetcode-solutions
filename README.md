@@ -43,5 +43,5 @@ pytest recursion/test_lc78_subsequences_of_string.py
 
 ---
 
-Free content by [Soulbits](https://soulbits.vercel.app/)
+Free content by [SoulBits](https://soulbits.vercel.app/)
 
