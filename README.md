@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-![CI](https://github.com/soul-bits/leetcode-solutions/workflows/CI/badge.svg)
+![CI](https://github.com/soul-bits/leetcode-solutions/actions/workflows/ci.yml/badge.svg)
 
 A collection of LeetCode problem solutions, focusing on recursion and algorithmic problem-solving.
 
