@@ -1,5 +1,5 @@
 import pytest
-from lc78_subsequences_of_string import generate_subsequences
+from recursion.lc78_subsequences_of_string import generate_subsequences
 
 
 class TestSubsequences:

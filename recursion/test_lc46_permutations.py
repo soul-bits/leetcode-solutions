@@ -1,5 +1,5 @@
 import pytest
-from lc46_permutations import Solution
+from recursion.lc46_permutations import Solution
 
 
 class TestPermutations:
