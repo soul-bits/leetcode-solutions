@@ -8,6 +8,3 @@ class Solution:
                 dfs(nums[:i]+nums[i+1:], curr + [nums[i]])
         dfs(nums, [])
         return self.ans
-
-s = Solution()
-print(s.permute([1,2,3]))

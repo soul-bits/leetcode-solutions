@@ -10,7 +10,3 @@ def generate_subsequences(s):
 
     dfs(0, "")
     return result
-
-
-s = "abc"
-print(generate_subsequences(s))
