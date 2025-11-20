@@ -23,15 +23,17 @@ class TestWordSearch:
         sol = Solution()
         board = [["A","B","C"]]
         assert sol.exist(board, "ABC") == True
-        assert sol.exist(board, "CBA") == False
+        assert sol.exist(board, "CBA") == True  # Can traverse backwards
         assert sol.exist(board, "AB") == True
+        assert sol.exist(board, "AC") == False  # A and C are not adjacent
 
     def test_exist_single_column(self):
         sol = Solution()
         board = [["A"], ["B"], ["C"]]
         assert sol.exist(board, "ABC") == True
-        assert sol.exist(board, "CBA") == False
+        assert sol.exist(board, "CBA") == True  # Can traverse backwards
         assert sol.exist(board, "AB") == True
+        assert sol.exist(board, "AC") == False  # A and C are not adjacent
 
     def test_exist_no_path(self):
         sol = Solution()
