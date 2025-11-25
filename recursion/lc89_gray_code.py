@@ -25,6 +25,3 @@ class Solution:
             seen.remove(nxt)
             cur_ans.pop(-1)
         return False
-
-
-

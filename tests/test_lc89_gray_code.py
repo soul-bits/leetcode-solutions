@@ -32,6 +32,3 @@ class TestGrayCode:
         sol = Solution()
         result = sol.grayCode(0)
         assert result == [0]
-
-
-
