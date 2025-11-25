@@ -33,3 +33,5 @@ class TestGrayCode:
         result = sol.grayCode(0)
         assert result == [0]
 
+
+
