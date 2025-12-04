@@ -16,6 +16,7 @@ A collection of LeetCode problem solutions, focusing on recursion and algorithmi
 | 6 | 90 | Subsets II | Recursion | [View](https://leetcode.com/problems/subsets-ii/) | [lc90_subsets_ii.py](recursion/lc90_subsets_ii.py) | [Watch](https://youtu.be/T5wH6DebTcw) |
 | 7 | 89 | Gray Code | Recursion | [View](https://leetcode.com/problems/gray-code/) | [lc89_gray_code.py](recursion/lc89_gray_code.py) | [Watch](https://youtu.be/2hAyPMKtl9g) |
 | 8 | 257 | Binary Tree Paths | Recursion | [View](https://leetcode.com/problems/binary-tree-paths/) | [lc257_binary_tree_paths.py](recursion/lc257_binary_tree_paths.py) | [Watch](https://youtu.be/tvxC9HDv7XY) |
+| 9 | 39 | Combination Sum | Recursion | [View](https://leetcode.com/problems/combination-sum/) | [lc39_combination_sum.py](recursion/lc39_combination_sum.py) | |
 
 ## Running Solutions
 
